@@ -16,7 +16,7 @@ namespace ArtıSpot_Ahmet_Yetek.Dl
                 Server = "localhost",
                 Database = "ArtıSpot",
                 UserID = "root",
-                Password = "ADS",
+                Password = "",
 
             }.ConnectionString
          );
